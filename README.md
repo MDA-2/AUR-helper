@@ -1,2 +1,2 @@
 # AUR-helper
-A simple add that makes installing packages by AUR faster
+A simple app that makes installing packages by AUR faster
