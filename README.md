@@ -1,10 +1,15 @@
 # AUR-helper
 A simple app that makes installing packages by AUR faster
 ## How to use it
-Download the bash file and type the command
+Download the python file and type the command
 ```bash
-./helper.sh -i PACKAGE_YOU_WANT
+python3 main.py -i PACKAGE_YOU_WANT
 ```
+You can search packages using
+```bash
+python3 main.py -f PACKAGE_YOU_WANT
+```
+
 ## TO-DO
 Things to do to improve the program
 - Make an install.sh file to install the program instead of executating the bash file everytime in the directory it was downloaded
